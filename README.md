@@ -11,5 +11,5 @@ npx degit mzaini30/warna warna
 ```python
 from warna.warna import (blue, reset)
 
-print(f'Halo {blue} semuanya {reset} ...')
+print(f'Halo {blue}semuanya{reset}...')
 ```
