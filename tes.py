@@ -1,3 +1,3 @@
-from warna import (blue as red, reset)
+from warna import (blue, reset)
 
-print(f'Halo semuanya... {red}Namaku Zen.{reset}Aku tinggal di Loa Bakung')
+print(f'Halo {blue}semuanya{reset}...')
