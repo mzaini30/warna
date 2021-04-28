@@ -3,13 +3,13 @@
 ## Instalasi
 
 ```bash
-npx degit mzaini30/warna warna
+pip3 install warna
 ```
 
 ## Contoh Cara Pakai
 
 ```python
-from warna.warna import (blue, reset)
+from warna import (blue, reset)
 
 print(f'Halo {blue}semuanya{reset}...')
 ```
