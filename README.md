@@ -9,7 +9,7 @@ pip3 install warna
 ## Contoh Cara Pakai
 
 ```python
-from warna import (blue, reset)
+from warna import blue, reset
 
 print(f'Halo {blue}semuanya{reset}...')
 ```
