@@ -17,7 +17,7 @@ github = 'https://github.com/mzaini30/warna'
 
 setuptools.setup(
 	name="warna",
-	version="1.1.2",
+	version="1.1.3",
 	author="Zen",
 	author_email="muhzaini30@gmail.com",
 	description="Menambahkan warna di Terminal",
@@ -33,5 +33,5 @@ setuptools.setup(
 		"License :: OSI Approved :: MIT License",
 		"Operating System :: OS Independent",
 	],
-	packages=['src']
+	packages=['warna']
 )
